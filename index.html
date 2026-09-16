@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Pastoral Planner">
+<meta name="theme-color" content="#1F2B3A">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon-192.png">
+<title>Pastoral Planner</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app">
+  <nav id="side" aria-label="Main"></nav>
+  <div id="mainwrap">
+    <header id="top"></header>
+    <main id="desk" tabindex="-1"></main>
+  </div>
+</div>
+<div id="dock" hidden></div>
+<div id="pop" hidden></div>
+<div id="modal" hidden></div>
+<div id="toast" role="status" aria-live="polite"></div>
+<input type="file" id="fileImage" accept="image/*" hidden>
+<input type="file" id="filePdf" accept="application/pdf" hidden>
+<input type="file" id="fileBackup" accept=".json,application/json" hidden>
+<input type="file" id="fileIcs" accept=".ics,text/calendar" hidden>
+<script type="module" src="app.js"></script>
+</body>
+</html>

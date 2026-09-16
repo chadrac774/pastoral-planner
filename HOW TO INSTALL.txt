@@ -1,0 +1,35 @@
+PASTORAL PLANNER — INSTALL ON iPAD
+
+The app is a set of files that must be opened once from a web address.
+After that it runs fully offline and keeps all data on your iPad.
+
+1. Put the folder online once (free, takes 2 minutes, from a computer):
+   - Go to app.netlify.com/drop and drag this whole folder onto the page, OR
+   - Upload the folder to a GitHub repository and turn on GitHub Pages.
+   You will get a web address (https://...).
+
+2. On the iPad, open that address in Safari.
+
+3. Tap Share, then "Add to Home Screen". Open Pastoral Planner from the Home Screen.
+
+4. From now on it works with no internet. Your planner, notes, drawings and PDFs
+   are stored only on this iPad, not on the website.
+
+KEEP YOUR DATA SAFE
+- Use "Backup & settings" > "Back up to Files" regularly (e.g. weekly) and keep
+  the backup in iCloud Drive or Files. "Restore from backup" brings it all back.
+- Always open the Home Screen app, not a Safari tab: iPadOS can clear data for
+  websites that are not added to the Home Screen.
+
+APPLE CALENDAR
+- Import: in Calendar on a Mac or iCloud.com, export/share a calendar as an .ics file,
+  save it to Files, then use "Import .ics file".
+- Export: "Export my events" or "Add to Apple Calendar" on any event creates an .ics
+  file that iPadOS offers to add to Calendar.
+
+WRITING
+- Pen, highlighter, eraser, lasso, text box, stickers and images are in the dock.
+- "Pencil only" on: only Apple Pencil writes; fingers scroll and tap.
+- Handwriting to text: choose the arrow (Type & tap) tool, then write with Apple Pencil
+  in any text field. iPadOS Scribble converts it on the device.
+- Dictation: tap a field, then the microphone at the top or on the keyboard.

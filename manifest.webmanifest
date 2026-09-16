@@ -1,0 +1,15 @@
+{
+  "name": "Pastoral Planner",
+  "short_name": "Planner",
+  "description": "Offline iPad planner for days, weeks, months, devotions, notes and PDFs.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#DCE1E5",
+  "theme_color": "#1F2B3A",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
